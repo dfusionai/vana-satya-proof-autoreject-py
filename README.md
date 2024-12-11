@@ -1,6 +1,6 @@
-# Vana Satya Proof of Contribution - Python Template
+# Vana Satya Proof of Contribution - Autoreject
 
-This repository serves as a template for creating a [proof of contribution](https://docs.vana.org/vana/core-concepts/key-elements/proof-of-contribution) tasks using Python. It is executed on Vana's Satya Network, a group of highly confidential and secure compute nodes that can validate data without revealing its contents to the node operator.
+This repository serves as a template for creating a [proof of contribution](https://docs.vana.org/vana/core-concepts/key-elements/proof-of-contribution) tasks using Python. This particular version autorejects the files and gives 0 scores.
 
 ## Overview
 
